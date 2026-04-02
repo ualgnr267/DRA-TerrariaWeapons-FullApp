@@ -1,0 +1,52 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Docker/runtime
+*.pid
+
+# Backend (Spring Boot / Maven)
+backend/demo/target/
+backend/demo/.classpath
+backend/demo/.project
+backend/demo/.settings/
+backend/demo/.factorypath
+backend/demo/.apt_generated/
+backend/demo/.springBeans
+backend/demo/.sts4-cache/
+backend/demo/nbproject/
+backend/demo/build/
+
+# Frontend (Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/coverage/
+frontend/.cache/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Script dependencies
+scripts/node_modules/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Generic build artifacts
+*.class
+*.jar
+*.war
+*.ear

@@ -1,0 +1,41 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: terraria
+      POSTGRES_USER: terraria
+      POSTGRES_PASSWORD: terraria
+    ports:
+      - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./backend/demo
+      dockerfile: Dockerfile
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/terraria
+      SPRING_DATASOURCE_USERNAME: terraria
+      SPRING_DATASOURCE_PASSWORD: terraria
+      TERRARIA_WEAPONS_JSON_PATH: /scripts/terraria-weapons.json
+    depends_on:
+      - db
+    volumes:
+      - ./scripts:/scripts:ro
+    ports:
+      - "8080:8080"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    depends_on:
+      - backend
+    ports:
+      - "4200:80"
+
+volumes:
+  db-data:

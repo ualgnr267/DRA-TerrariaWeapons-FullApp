@@ -1,0 +1,2025 @@
+{
+  "Swords": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode swords",
+        "subtipos": [
+          {
+            "nombre": "Shortswords",
+            "armas": [
+              {
+                "nombre": "Copper Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Copper_Shortsword.png?2ed47b"
+              },
+              {
+                "nombre": "Tin Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Tin_Shortsword.png?52f2ba"
+              },
+              {
+                "nombre": "Iron Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Iron_Shortsword.png?64e97b"
+              },
+              {
+                "nombre": "Lead Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Lead_Shortsword.png?d828f4"
+              },
+              {
+                "nombre": "Silver Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Silver_Shortsword.png?62201f"
+              },
+              {
+                "nombre": "Tungsten Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Tungsten_Shortsword.png?6a738a"
+              },
+              {
+                "nombre": "Gold Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Gold_Shortsword.png?7d6af4"
+              },
+              {
+                "nombre": "Platinum Shortsword",
+                "imagen": "https://terraria.wiki.gg/images/Platinum_Shortsword.png?1c7559"
+              },
+              {
+                "nombre": "Ruler",
+                "imagen": "https://terraria.wiki.gg/images/Ruler.png?528bdc"
+              },
+              {
+                "nombre": "Umbrella",
+                "imagen": "https://terraria.wiki.gg/images/Umbrella.png?8dcb98"
+              },
+              {
+                "nombre": "Gladius",
+                "imagen": "https://terraria.wiki.gg/images/Gladius.png?2a1c7e"
+              },
+              {
+                "nombre": "Tragic Umbrella",
+                "imagen": "https://terraria.wiki.gg/images/Tragic_Umbrella.png?906a02"
+              }
+            ]
+          },
+          {
+            "nombre": "Broadswords",
+            "armas": [
+              {
+                "nombre": "Wooden Sword",
+                "imagen": "https://terraria.wiki.gg/images/Wooden_Sword.png?7b2018"
+              },
+              {
+                "nombre": "Boreal Wood Sword",
+                "imagen": "https://terraria.wiki.gg/images/Boreal_Wood_Sword.png?b09c19"
+              },
+              {
+                "nombre": "Copper Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Copper_Broadsword.png?25612f"
+              },
+              {
+                "nombre": "Palm Wood Sword",
+                "imagen": "https://terraria.wiki.gg/images/Palm_Wood_Sword.png?27ffea"
+              },
+              {
+                "nombre": "Rich Mahogany Sword",
+                "imagen": "https://terraria.wiki.gg/images/Rich_Mahogany_Sword.png?75acb9"
+              },
+              {
+                "nombre": "Cactus Sword",
+                "imagen": "https://terraria.wiki.gg/images/Cactus_Sword.png?380fc5"
+              },
+              {
+                "nombre": "Tin Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Tin_Broadsword.png?f8e165"
+              },
+              {
+                "nombre": "Ebonwood Sword",
+                "imagen": "https://terraria.wiki.gg/images/Ebonwood_Sword.png?d0a9df"
+              },
+              {
+                "nombre": "Iron Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Iron_Broadsword.png?b2b3bd"
+              },
+              {
+                "nombre": "Shadewood Sword",
+                "imagen": "https://terraria.wiki.gg/images/Shadewood_Sword.png?c46e60"
+              },
+              {
+                "nombre": "Lead Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Lead_Broadsword.png?4925fa"
+              },
+              {
+                "nombre": "Silver Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Silver_Broadsword.png?d8a9c0"
+              },
+              {
+                "nombre": "Bladed Glove",
+                "imagen": "https://terraria.wiki.gg/images/Bladed_Glove.png?de29dd"
+              },
+              {
+                "nombre": "Tungsten Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Tungsten_Broadsword.png?b7a0f8"
+              },
+              {
+                "nombre": "Zombie Arm",
+                "imagen": "https://terraria.wiki.gg/images/Zombie_Arm.png?3bb3c5"
+              },
+              {
+                "nombre": "Ash Wood Sword",
+                "imagen": "https://terraria.wiki.gg/images/Ash_Wood_Sword.png?76d370"
+              },
+              {
+                "nombre": "Gold Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Gold_Broadsword.png?7ac5d0"
+              },
+              {
+                "nombre": "Flymeal",
+                "imagen": "https://terraria.wiki.gg/images/Flymeal.png?ac7662"
+              },
+              {
+                "nombre": "Mandible Blade",
+                "imagen": "https://terraria.wiki.gg/images/Mandible_Blade.png?858391"
+              },
+              {
+                "nombre": "Stylish Scissors",
+                "imagen": "https://terraria.wiki.gg/images/Stylish_Scissors.png?4406de"
+              },
+              {
+                "nombre": "Platinum Broadsword",
+                "imagen": "https://terraria.wiki.gg/images/Platinum_Broadsword.png?fae4d7"
+              },
+              {
+                "nombre": "Breathing Reed",
+                "imagen": "https://terraria.wiki.gg/images/Breathing_Reed.png?6e447c"
+              },
+              {
+                "nombre": "Bone Sword",
+                "imagen": "https://terraria.wiki.gg/images/Bone_Sword.png?d84a7d"
+              },
+              {
+                "nombre": "Bat Bat",
+                "imagen": "https://terraria.wiki.gg/images/Bat_Bat.png?64e671"
+              },
+              {
+                "nombre": "Tentacle Spike",
+                "imagen": "https://terraria.wiki.gg/images/Tentacle_Spike.png?a25148"
+              },
+              {
+                "nombre": "Candy Cane Sword",
+                "imagen": "https://terraria.wiki.gg/images/Candy_Cane_Sword.png?e06bd4"
+              },
+              {
+                "nombre": "Katana",
+                "imagen": "https://terraria.wiki.gg/images/Katana.png?dbce87"
+              },
+              {
+                "nombre": "Ice Blade",
+                "imagen": "https://terraria.wiki.gg/images/Ice_Blade.png?ae3e0a"
+              },
+              {
+                "nombre": "Light's Bane",
+                "imagen": "https://terraria.wiki.gg/images/Light%27s_Bane.png?7932b6"
+              },
+              {
+                "nombre": "Muramasa",
+                "imagen": "https://terraria.wiki.gg/images/Muramasa.png?3f0467"
+              },
+              {
+                "nombre": "Exotic Scimitar",
+                "imagen": "https://terraria.wiki.gg/images/Exotic_Scimitar.png?1fa575"
+              },
+              {
+                "nombre": "Phaseblade",
+                "imagen": "https://terraria.wiki.gg/images/Phaseblade.gif?e4ca24"
+              },
+              {
+                "nombre": "Blood Butcherer",
+                "imagen": "https://terraria.wiki.gg/images/Blood_Butcherer.png?460456"
+              },
+              {
+                "nombre": "Starfury",
+                "imagen": "https://terraria.wiki.gg/images/Starfury.png?e01256"
+              },
+              {
+                "nombre": "Enchanted Sword",
+                "imagen": "https://terraria.wiki.gg/images/Enchanted_Sword_%28item%29.png?25013c"
+              },
+              {
+                "nombre": "Purple Clubberfish",
+                "imagen": "https://terraria.wiki.gg/images/Purple_Clubberfish.png?246863"
+              },
+              {
+                "nombre": "Bee Keeper",
+                "imagen": "https://terraria.wiki.gg/images/Bee_Keeper.png?5c3fb7"
+              },
+              {
+                "nombre": "Falcon Blade",
+                "imagen": "https://terraria.wiki.gg/images/Falcon_Blade.png?430372"
+              },
+              {
+                "nombre": "Blade of Grass",
+                "imagen": "https://terraria.wiki.gg/images/Blade_of_Grass.png?b18050"
+              },
+              {
+                "nombre": "Volcano",
+                "imagen": "https://terraria.wiki.gg/images/Volcano.png?e0c908"
+              },
+              {
+                "nombre": "Night's Edge",
+                "imagen": "https://terraria.wiki.gg/images/Night%27s_Edge.png?464d44"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode swords",
+        "subtipos": [
+          {
+            "nombre": "Broadswords",
+            "armas": [
+              {
+                "nombre": "Pearlwood Sword",
+                "imagen": "https://terraria.wiki.gg/images/Pearlwood_Sword.png?cb4843"
+              },
+              {
+                "nombre": "Classy Cane",
+                "imagen": "https://terraria.wiki.gg/images/Classy_Cane.png?33e6af"
+              },
+              {
+                "nombre": "Slap Hand",
+                "imagen": "https://terraria.wiki.gg/images/Slap_Hand.png?221f53"
+              },
+              {
+                "nombre": "Cobalt Sword",
+                "imagen": "https://terraria.wiki.gg/images/Cobalt_Sword.png?15208c"
+              },
+              {
+                "nombre": "Palladium Sword",
+                "imagen": "https://terraria.wiki.gg/images/Palladium_Sword.png?e29cf4"
+              },
+              {
+                "nombre": "Phasesaber",
+                "imagen": "https://terraria.wiki.gg/images/Phasesaber.gif?45eb60"
+              },
+              {
+                "nombre": "Ice Sickle",
+                "imagen": "https://terraria.wiki.gg/images/Ice_Sickle.png?128053"
+              },
+              {
+                "nombre": "Brand of the Inferno",
+                "imagen": "https://terraria.wiki.gg/images/Brand_of_the_Inferno.png?34ca7b"
+              },
+              {
+                "nombre": "Mythril Sword",
+                "imagen": "https://terraria.wiki.gg/images/Mythril_Sword.png?9911ef"
+              },
+              {
+                "nombre": "Orichalcum Sword",
+                "imagen": "https://terraria.wiki.gg/images/Orichalcum_Sword.png?335506"
+              },
+              {
+                "nombre": "Breaker Blade",
+                "imagen": "https://terraria.wiki.gg/images/Breaker_Blade.png?34e7fa"
+              },
+              {
+                "nombre": "Cutlass",
+                "imagen": "https://terraria.wiki.gg/images/Cutlass.png?3a6cfd"
+              },
+              {
+                "nombre": "Frostbrand",
+                "imagen": "https://terraria.wiki.gg/images/Frostbrand.png?3584e9"
+              },
+              {
+                "nombre": "Adamantite Sword",
+                "imagen": "https://terraria.wiki.gg/images/Adamantite_Sword.png?482ae4"
+              },
+              {
+                "nombre": "Beam Sword",
+                "imagen": "https://terraria.wiki.gg/images/Beam_Sword.png?8f6c5f"
+              },
+              {
+                "nombre": "Titanium Sword",
+                "imagen": "https://terraria.wiki.gg/images/Titanium_Sword.png?1a39b1"
+              },
+              {
+                "nombre": "Fetid Baghnakhs",
+                "imagen": "https://terraria.wiki.gg/images/Fetid_Baghnakhs.png?526e1b"
+              },
+              {
+                "nombre": "Bladetongue",
+                "imagen": "https://terraria.wiki.gg/images/Bladetongue.png?1a62bf"
+              },
+              {
+                "nombre": "Ham Bat",
+                "imagen": "https://terraria.wiki.gg/images/Ham_Bat.png?53b2ad"
+              },
+              {
+                "nombre": "Excalibur",
+                "imagen": "https://terraria.wiki.gg/images/Excalibur.png?710f8b"
+              },
+              {
+                "nombre": "Waffle's Iron",
+                "imagen": "https://terraria.wiki.gg/images/Waffle%27s_Iron.png?be4e57"
+              },
+              {
+                "nombre": "True Night's Edge",
+                "imagen": "https://terraria.wiki.gg/images/True_Night%27s_Edge.png?a3304d"
+              },
+              {
+                "nombre": "Chlorophyte Saber",
+                "imagen": "https://terraria.wiki.gg/images/Chlorophyte_Saber.png?437ddc"
+              },
+              {
+                "nombre": "Chlorophyte Claymore",
+                "imagen": "https://terraria.wiki.gg/images/Chlorophyte_Claymore.png?de6d8e"
+              },
+              {
+                "nombre": "True Excalibur",
+                "imagen": "https://terraria.wiki.gg/images/True_Excalibur.png?8df18b"
+              },
+              {
+                "nombre": "Seedler",
+                "imagen": "https://terraria.wiki.gg/images/Seedler.png?89d369"
+              },
+              {
+                "nombre": "Death Sickle",
+                "imagen": "https://terraria.wiki.gg/images/Death_Sickle.png?b6ebcd"
+              },
+              {
+                "nombre": "Psycho Knife",
+                "imagen": "https://terraria.wiki.gg/images/Psycho_Knife.png?2d3272"
+              },
+              {
+                "nombre": "Keybrand",
+                "imagen": "https://terraria.wiki.gg/images/Keybrand.png?54bbd7"
+              },
+              {
+                "nombre": "Terra Blade",
+                "imagen": "https://terraria.wiki.gg/images/Terra_Blade.png?6df328"
+              },
+              {
+                "nombre": "The Horseman's Blade",
+                "imagen": "https://terraria.wiki.gg/images/The_Horseman%27s_Blade.png?ed149b"
+              },
+              {
+                "nombre": "Christmas Tree Sword",
+                "imagen": "https://terraria.wiki.gg/images/Christmas_Tree_Sword.png?e23863"
+              },
+              {
+                "nombre": "Flying Dragon",
+                "imagen": "https://terraria.wiki.gg/images/Flying_Dragon.png?b431a6"
+              },
+              {
+                "nombre": "Influx Waver",
+                "imagen": "https://terraria.wiki.gg/images/Influx_Waver.png?a725fd"
+              },
+              {
+                "nombre": "Star Wrath",
+                "imagen": "https://terraria.wiki.gg/images/Star_Wrath.png?8b7056"
+              },
+              {
+                "nombre": "Meowmere",
+                "imagen": "https://terraria.wiki.gg/images/Meowmere.png?3947a6"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Yoyos": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode yoyos",
+        "armas": [
+          {
+            "nombre": "Wooden Yoyo",
+            "imagen": "https://terraria.wiki.gg/images/Wooden_Yoyo.png?237e47"
+          },
+          {
+            "nombre": "Rally",
+            "imagen": "https://terraria.wiki.gg/images/Rally.png?3568ab"
+          },
+          {
+            "nombre": "Malaise",
+            "imagen": "https://terraria.wiki.gg/images/Malaise.png?14fb6d"
+          },
+          {
+            "nombre": "Artery",
+            "imagen": "https://terraria.wiki.gg/images/Artery.png?b72d68"
+          },
+          {
+            "nombre": "Amazon",
+            "imagen": "https://terraria.wiki.gg/images/Amazon.png?6e31c2"
+          },
+          {
+            "nombre": "Code 1",
+            "imagen": "https://terraria.wiki.gg/images/Code_1.png?86b8ab"
+          },
+          {
+            "nombre": "Hive-Five",
+            "imagen": "https://terraria.wiki.gg/images/Hive-Five.png?bc7c4e"
+          },
+          {
+            "nombre": "Valor",
+            "imagen": "https://terraria.wiki.gg/images/Valor.png?9119b7"
+          },
+          {
+            "nombre": "Cascade",
+            "imagen": "https://terraria.wiki.gg/images/Cascade.png?b7f287"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode yoyos",
+        "armas": [
+          {
+            "nombre": "Format:C",
+            "imagen": "https://terraria.wiki.gg/images/Format_C.png?c7bab3"
+          },
+          {
+            "nombre": "Gradient",
+            "imagen": "https://terraria.wiki.gg/images/Gradient.png?c86ebb"
+          },
+          {
+            "nombre": "Chik",
+            "imagen": "https://terraria.wiki.gg/images/Chik.png?fb81db"
+          },
+          {
+            "nombre": "Hel-Fire",
+            "imagen": "https://terraria.wiki.gg/images/Hel-Fire.png?70ac67"
+          },
+          {
+            "nombre": "Amarok",
+            "imagen": "https://terraria.wiki.gg/images/Amarok.png?945197"
+          },
+          {
+            "nombre": "Code 2",
+            "imagen": "https://terraria.wiki.gg/images/Code_2.png?d0c4b1"
+          },
+          {
+            "nombre": "Yelets",
+            "imagen": "https://terraria.wiki.gg/images/Yelets.png?6448ac"
+          },
+          {
+            "nombre": "Red's Throw",
+            "imagen": "https://terraria.wiki.gg/images/Red%27s_Throw.png?c24c93"
+          },
+          {
+            "nombre": "Valkyrie Yoyo",
+            "imagen": "https://terraria.wiki.gg/images/Valkyrie_Yoyo.png?2672ad"
+          },
+          {
+            "nombre": "Kraken",
+            "imagen": "https://terraria.wiki.gg/images/Kraken.png?e07e05"
+          },
+          {
+            "nombre": "The Eye of Cthulhu",
+            "imagen": "https://terraria.wiki.gg/images/The_Eye_of_Cthulhu.png?bb9b92"
+          },
+          {
+            "nombre": "Terrarian",
+            "imagen": "https://terraria.wiki.gg/images/Terrarian.png?183ae2"
+          }
+        ]
+      }
+    ]
+  },
+  "Spears": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode spears",
+        "armas": [
+          {
+            "nombre": "Spear",
+            "imagen": "https://terraria.wiki.gg/images/Spear.png?4e2e3d"
+          },
+          {
+            "nombre": "Trident",
+            "imagen": "https://terraria.wiki.gg/images/Trident.png?c9be64"
+          },
+          {
+            "nombre": "Slime Spear",
+            "imagen": "https://terraria.wiki.gg/images/Slime_Spear.png?29158e"
+          },
+          {
+            "nombre": "Storm Spear",
+            "imagen": "https://terraria.wiki.gg/images/Storm_Spear.png?c94f72"
+          },
+          {
+            "nombre": "The Rotted Fork",
+            "imagen": "https://terraria.wiki.gg/images/The_Rotted_Fork.png?1033fd"
+          },
+          {
+            "nombre": "Swordfish",
+            "imagen": "https://terraria.wiki.gg/images/Swordfish.png?e2cc58"
+          },
+          {
+            "nombre": "Dark Lance",
+            "imagen": "https://terraria.wiki.gg/images/Dark_Lance.png?e430f2"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode spears",
+        "armas": [
+          {
+            "nombre": "Cobalt Naginata",
+            "imagen": "https://terraria.wiki.gg/images/Cobalt_Naginata.png?440bce"
+          },
+          {
+            "nombre": "Palladium Pike",
+            "imagen": "https://terraria.wiki.gg/images/Palladium_Pike.png?ca4713"
+          },
+          {
+            "nombre": "Mythril Halberd",
+            "imagen": "https://terraria.wiki.gg/images/Mythril_Halberd.png?93410e"
+          },
+          {
+            "nombre": "Orichalcum Halberd",
+            "imagen": "https://terraria.wiki.gg/images/Orichalcum_Halberd.png?5d6d64"
+          },
+          {
+            "nombre": "Adamantite Glaive",
+            "imagen": "https://terraria.wiki.gg/images/Adamantite_Glaive.png?ddff67"
+          },
+          {
+            "nombre": "Titanium Trident",
+            "imagen": "https://terraria.wiki.gg/images/Titanium_Trident.png?6bc466"
+          },
+          {
+            "nombre": "Gungnir",
+            "imagen": "https://terraria.wiki.gg/images/Gungnir.png?12c74f"
+          },
+          {
+            "nombre": "Ghastly Glaive",
+            "imagen": "https://terraria.wiki.gg/images/Ghastly_Glaive.png?dd2888"
+          },
+          {
+            "nombre": "Chlorophyte Partisan",
+            "imagen": "https://terraria.wiki.gg/images/Chlorophyte_Partisan.png?ca7c1f"
+          },
+          {
+            "nombre": "Mushroom Spear",
+            "imagen": "https://terraria.wiki.gg/images/Mushroom_Spear.png?d621b7"
+          },
+          {
+            "nombre": "Obsidian Swordfish",
+            "imagen": "https://terraria.wiki.gg/images/Obsidian_Swordfish.png?265581"
+          },
+          {
+            "nombre": "North Pole",
+            "imagen": "https://terraria.wiki.gg/images/North_Pole.png?26f5ec"
+          }
+        ]
+      }
+    ]
+  },
+  "Boomerangs": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode boomerangs",
+        "armas": [
+          {
+            "nombre": "Wooden Boomerang",
+            "imagen": "https://terraria.wiki.gg/images/Wooden_Boomerang.png?fc4a4a"
+          },
+          {
+            "nombre": "Enchanted Boomerang",
+            "imagen": "https://terraria.wiki.gg/images/Enchanted_Boomerang.png?56c041"
+          },
+          {
+            "nombre": "Fruitcake Chakram",
+            "imagen": "https://terraria.wiki.gg/images/Fruitcake_Chakram.png?24377d"
+          },
+          {
+            "nombre": "Bloody Machete",
+            "imagen": "https://terraria.wiki.gg/images/Bloody_Machete.png?99ba73"
+          },
+          {
+            "nombre": "Shroomerang",
+            "imagen": "https://terraria.wiki.gg/images/Shroomerang.png?55af96"
+          },
+          {
+            "nombre": "Ice Boomerang",
+            "imagen": "https://terraria.wiki.gg/images/Ice_Boomerang.png?74995f"
+          },
+          {
+            "nombre": "Thorn Chakram",
+            "imagen": "https://terraria.wiki.gg/images/Thorn_Chakram.png?68c31c"
+          },
+          {
+            "nombre": "Axearang",
+            "imagen": "https://terraria.wiki.gg/images/Axearang.png?19b49d"
+          },
+          {
+            "nombre": "Trimarang",
+            "imagen": "https://terraria.wiki.gg/images/Trimarang.png?97d32b"
+          },
+          {
+            "nombre": "Combat Wrench",
+            "imagen": "https://terraria.wiki.gg/images/Combat_Wrench.png?16c760"
+          },
+          {
+            "nombre": "Flamarang",
+            "imagen": "https://terraria.wiki.gg/images/Flamarang.png?615f9d"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode boomerangs",
+        "armas": [
+          {
+            "nombre": "Flying Knife",
+            "imagen": "https://terraria.wiki.gg/images/Flying_Knife.png?147c59"
+          },
+          {
+            "nombre": "Sergeant United Shield",
+            "imagen": "https://terraria.wiki.gg/images/Sergeant_United_Shield.png?8e1318"
+          },
+          {
+            "nombre": "Light Disc",
+            "imagen": "https://terraria.wiki.gg/images/Light_Disc.png?44fc04"
+          },
+          {
+            "nombre": "Bananarang",
+            "imagen": "https://terraria.wiki.gg/images/Bananarang.png?4c37d5"
+          },
+          {
+            "nombre": "Paladin's Hammer",
+            "imagen": "https://terraria.wiki.gg/images/Paladin%27s_Hammer.png?43da21"
+          },
+          {
+            "nombre": "Possessed Hatchet",
+            "imagen": "https://terraria.wiki.gg/images/Possessed_Hatchet.png?b18424"
+          }
+        ]
+      }
+    ]
+  },
+  "Flails": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode flails",
+        "subtipos": [
+          {
+            "nombre": "Thrown",
+            "armas": [
+              {
+                "nombre": "Mace",
+                "imagen": "https://terraria.wiki.gg/images/Mace.png?9f6a2e"
+              },
+              {
+                "nombre": "Flaming Mace",
+                "imagen": "https://terraria.wiki.gg/images/Flaming_Mace.png?9138d1"
+              },
+              {
+                "nombre": "Ball O' Hurt",
+                "imagen": "https://terraria.wiki.gg/images/Ball_O%27_Hurt.png?f7ad2a"
+              },
+              {
+                "nombre": "The Meatball",
+                "imagen": "https://terraria.wiki.gg/images/The_Meatball.png?a97e42"
+              },
+              {
+                "nombre": "Blue Moon",
+                "imagen": "https://terraria.wiki.gg/images/Blue_Moon.png?5231d4"
+              },
+              {
+                "nombre": "Sunfury",
+                "imagen": "https://terraria.wiki.gg/images/Sunfury.png?f032d3"
+              }
+            ]
+          },
+          {
+            "nombre": "Launched",
+            "armas": [
+              {
+                "nombre": "Chain Knife",
+                "imagen": "https://terraria.wiki.gg/images/Chain_Knife.png?182731"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode flails",
+        "subtipos": [
+          {
+            "nombre": "Thrown",
+            "armas": [
+              {
+                "nombre": "Drippler Crippler",
+                "imagen": "https://terraria.wiki.gg/images/Drippler_Crippler.png?30854a"
+              },
+              {
+                "nombre": "Dao of Pow",
+                "imagen": "https://terraria.wiki.gg/images/Dao_of_Pow.png?29b047"
+              },
+              {
+                "nombre": "Flower Pow",
+                "imagen": "https://terraria.wiki.gg/images/Flower_Pow.png?f6f88a"
+              }
+            ]
+          },
+          {
+            "nombre": "Launched",
+            "armas": [
+              {
+                "nombre": "Anchor",
+                "imagen": "https://terraria.wiki.gg/images/Anchor.png?6ce563"
+              },
+              {
+                "nombre": "Chain Guillotines",
+                "imagen": "https://terraria.wiki.gg/images/Chain_Guillotines.png?af4d93"
+              },
+              {
+                "nombre": "KO Cannon",
+                "imagen": "https://terraria.wiki.gg/images/KO_Cannon.png?51c2ba"
+              },
+              {
+                "nombre": "Golem Fist",
+                "imagen": "https://terraria.wiki.gg/images/Golem_Fist.png?86b140"
+              },
+              {
+                "nombre": "Flairon",
+                "imagen": "https://terraria.wiki.gg/images/Flairon.png?2f0d1c"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Others": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode others",
+        "armas": [
+          {
+            "nombre": "Crimson Rod",
+            "imagen": "https://terraria.wiki.gg/images/Crimson_Rod.png?919820"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode others",
+        "armas": [
+          {
+            "nombre": "Ice Rod",
+            "imagen": "https://terraria.wiki.gg/images/Ice_Rod.png?c8c96e"
+          },
+          {
+            "nombre": "Killing Deck",
+            "imagen": "https://terraria.wiki.gg/images/Killing_Deck.png?a7e0b3"
+          },
+          {
+            "nombre": "Clinger Staff",
+            "imagen": "https://terraria.wiki.gg/images/Clinger_Staff.png?ed897a"
+          },
+          {
+            "nombre": "Nimbus Rod",
+            "imagen": "https://terraria.wiki.gg/images/Nimbus_Rod.png?85a93a"
+          },
+          {
+            "nombre": "Magic Dagger",
+            "imagen": "https://terraria.wiki.gg/images/Magic_Dagger.png?87a45a"
+          },
+          {
+            "nombre": "Medusa Head",
+            "imagen": "https://terraria.wiki.gg/images/Medusa_Head.png?450488"
+          },
+          {
+            "nombre": "Spirit Flame",
+            "imagen": "https://terraria.wiki.gg/images/Spirit_Flame.png?b61e43"
+          },
+          {
+            "nombre": "Shadowflame Hex Doll",
+            "imagen": "https://terraria.wiki.gg/images/Shadowflame_Hex_Doll.png?3b1e86"
+          },
+          {
+            "nombre": "Blood Thorn",
+            "imagen": "https://terraria.wiki.gg/images/Blood_Thorn.png?29254b"
+          },
+          {
+            "nombre": "Magical Harp",
+            "imagen": "https://terraria.wiki.gg/images/Magical_Harp.png?95117d"
+          },
+          {
+            "nombre": "Toxic Flask",
+            "imagen": "https://terraria.wiki.gg/images/Toxic_Flask.png?6b5195"
+          },
+          {
+            "nombre": "Nightglow",
+            "imagen": "https://terraria.wiki.gg/images/Nightglow.png?9e7249"
+          },
+          {
+            "nombre": "Stellar Tune",
+            "imagen": "https://terraria.wiki.gg/images/Stellar_Tune.png?bb2bd4"
+          },
+          {
+            "nombre": "Nebula Arcanum",
+            "imagen": "https://terraria.wiki.gg/images/Nebula_Arcanum.png?e20565"
+          },
+          {
+            "nombre": "Nebula Blaze",
+            "imagen": "https://terraria.wiki.gg/images/Nebula_Blaze.png?66cb6f"
+          },
+          {
+            "nombre": "Last Prism",
+            "imagen": "https://terraria.wiki.gg/images/Last_Prism.png?7cd626"
+          }
+        ]
+      }
+    ]
+  },
+  "Bows and repeaters": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode bows",
+        "armas": [
+          {
+            "nombre": "Wooden Bow",
+            "imagen": "https://terraria.wiki.gg/images/Wooden_Bow.png?f0c400"
+          },
+          {
+            "nombre": "Boreal Wood Bow",
+            "imagen": "https://terraria.wiki.gg/images/Boreal_Wood_Bow.png?a3435b"
+          },
+          {
+            "nombre": "Copper Bow",
+            "imagen": "https://terraria.wiki.gg/images/Copper_Bow.png?908d94"
+          },
+          {
+            "nombre": "Palm Wood Bow",
+            "imagen": "https://terraria.wiki.gg/images/Palm_Wood_Bow.png?56b500"
+          },
+          {
+            "nombre": "Rich Mahogany Bow",
+            "imagen": "https://terraria.wiki.gg/images/Rich_Mahogany_Bow.png?536ca8"
+          },
+          {
+            "nombre": "Tin Bow",
+            "imagen": "https://terraria.wiki.gg/images/Tin_Bow.png?f8d2c8"
+          },
+          {
+            "nombre": "Ebonwood Bow",
+            "imagen": "https://terraria.wiki.gg/images/Ebonwood_Bow.png?471a27"
+          },
+          {
+            "nombre": "Iron Bow",
+            "imagen": "https://terraria.wiki.gg/images/Iron_Bow.png?70a75f"
+          },
+          {
+            "nombre": "Shadewood Bow",
+            "imagen": "https://terraria.wiki.gg/images/Shadewood_Bow.png?1b4cee"
+          },
+          {
+            "nombre": "Lead Bow",
+            "imagen": "https://terraria.wiki.gg/images/Lead_Bow.png?f19f07"
+          },
+          {
+            "nombre": "Silver Bow",
+            "imagen": "https://terraria.wiki.gg/images/Silver_Bow.png?cea43d"
+          },
+          {
+            "nombre": "Tungsten Bow",
+            "imagen": "https://terraria.wiki.gg/images/Tungsten_Bow.png?793181"
+          },
+          {
+            "nombre": "Ash Wood Bow",
+            "imagen": "https://terraria.wiki.gg/images/Ash_Wood_Bow.png?ce962c"
+          },
+          {
+            "nombre": "Gold Bow",
+            "imagen": "https://terraria.wiki.gg/images/Gold_Bow.png?5e9774"
+          },
+          {
+            "nombre": "Platinum Bow",
+            "imagen": "https://terraria.wiki.gg/images/Platinum_Bow.png?7095b5"
+          },
+          {
+            "nombre": "Demon Bow",
+            "imagen": "https://terraria.wiki.gg/images/Demon_Bow.png?914ed9"
+          },
+          {
+            "nombre": "Tendon Bow",
+            "imagen": "https://terraria.wiki.gg/images/Tendon_Bow.png?20c619"
+          },
+          {
+            "nombre": "Blood Rain Bow",
+            "imagen": "https://terraria.wiki.gg/images/Blood_Rain_Bow.png?b27c0a"
+          },
+          {
+            "nombre": "The Bee's Knees",
+            "imagen": "https://terraria.wiki.gg/images/The_Bee%27s_Knees.png?805784"
+          },
+          {
+            "nombre": "Hellwing Bow",
+            "imagen": "https://terraria.wiki.gg/images/Hellwing_Bow.png?c20680"
+          },
+          {
+            "nombre": "Molten Fury",
+            "imagen": "https://terraria.wiki.gg/images/Molten_Fury.png?682784"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode bows and repeaters",
+        "armas": [
+          {
+            "nombre": "Pearlwood Bow",
+            "imagen": "https://terraria.wiki.gg/images/Pearlwood_Bow.png?b693d4"
+          },
+          {
+            "nombre": "Marrow",
+            "imagen": "https://terraria.wiki.gg/images/Marrow.png?5f36a8"
+          },
+          {
+            "nombre": "Ice Bow",
+            "imagen": "https://terraria.wiki.gg/images/Ice_Bow.png?c2eca8"
+          },
+          {
+            "nombre": "Daedalus Stormbow",
+            "imagen": "https://terraria.wiki.gg/images/Daedalus_Stormbow.png?4a68a5"
+          },
+          {
+            "nombre": "Shadowflame Bow",
+            "imagen": "https://terraria.wiki.gg/images/Shadowflame_Bow.png?22b01c"
+          },
+          {
+            "nombre": "Cobalt Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Cobalt_Repeater.png?84766c"
+          },
+          {
+            "nombre": "Palladium Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Palladium_Repeater.png?623f00"
+          },
+          {
+            "nombre": "Mythril Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Mythril_Repeater.png?74326d"
+          },
+          {
+            "nombre": "Orichalcum Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Orichalcum_Repeater.png?86f02f"
+          },
+          {
+            "nombre": "Adamantite Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Adamantite_Repeater.png?f46139"
+          },
+          {
+            "nombre": "Titanium Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Titanium_Repeater.png?d1cf6e"
+          },
+          {
+            "nombre": "Hallowed Repeater",
+            "imagen": "https://terraria.wiki.gg/images/Hallowed_Repeater.png?3290da"
+          },
+          {
+            "nombre": "Chlorophyte Shotbow",
+            "imagen": "https://terraria.wiki.gg/images/Chlorophyte_Shotbow.png?2cd925"
+          },
+          {
+            "nombre": "Phantom Phoenix",
+            "imagen": "https://terraria.wiki.gg/images/Phantom_Phoenix.png?e08866"
+          },
+          {
+            "nombre": "Pulse Bow",
+            "imagen": "https://terraria.wiki.gg/images/Pulse_Bow.png?ba568a"
+          },
+          {
+            "nombre": "Stake Launcher",
+            "imagen": "https://terraria.wiki.gg/images/Stake_Launcher.png?1f3dae"
+          },
+          {
+            "nombre": "Aerial Bane",
+            "imagen": "https://terraria.wiki.gg/images/Aerial_Bane.png?3f2116"
+          },
+          {
+            "nombre": "Tsunami",
+            "imagen": "https://terraria.wiki.gg/images/Tsunami.png?b0d6cb"
+          },
+          {
+            "nombre": "Eventide",
+            "imagen": "https://terraria.wiki.gg/images/Eventide.png?597df1"
+          },
+          {
+            "nombre": "Phantasm",
+            "imagen": "https://terraria.wiki.gg/images/Phantasm.png?eef599"
+          }
+        ]
+      }
+    ]
+  },
+  "Guns": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode guns",
+        "armas": [
+          {
+            "nombre": "Red Ryder",
+            "imagen": "https://terraria.wiki.gg/images/Red_Ryder.png?f2c900"
+          },
+          {
+            "nombre": "Flintlock Pistol",
+            "imagen": "https://terraria.wiki.gg/images/Flintlock_Pistol.png?510e16"
+          },
+          {
+            "nombre": "Musket",
+            "imagen": "https://terraria.wiki.gg/images/Musket.png?11d540"
+          },
+          {
+            "nombre": "The Undertaker",
+            "imagen": "https://terraria.wiki.gg/images/The_Undertaker.png?edd4e9"
+          },
+          {
+            "nombre": "Revolver",
+            "imagen": "https://terraria.wiki.gg/images/Revolver.png?1561f2"
+          },
+          {
+            "nombre": "Minishark",
+            "imagen": "https://terraria.wiki.gg/images/Minishark.png?1a8a90"
+          },
+          {
+            "nombre": "Boomstick",
+            "imagen": "https://terraria.wiki.gg/images/Boomstick.png?8b821c"
+          },
+          {
+            "nombre": "Quad-Barrel Shotgun",
+            "imagen": "https://terraria.wiki.gg/images/Quad-Barrel_Shotgun.png?1ed76e"
+          },
+          {
+            "nombre": "Handgun",
+            "imagen": "https://terraria.wiki.gg/images/Handgun.png?9ef39c"
+          },
+          {
+            "nombre": "Phoenix Blaster",
+            "imagen": "https://terraria.wiki.gg/images/Phoenix_Blaster.png?508d6f"
+          },
+          {
+            "nombre": "Pew-matic Horn",
+            "imagen": "https://terraria.wiki.gg/images/Pew-matic_Horn.png?50ff59"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode guns",
+        "armas": [
+          {
+            "nombre": "Clockwork Assault Rifle",
+            "imagen": "https://terraria.wiki.gg/images/Clockwork_Assault_Rifle.png?1079d8"
+          },
+          {
+            "nombre": "Gatligator",
+            "imagen": "https://terraria.wiki.gg/images/Gatligator.png?8f6622"
+          },
+          {
+            "nombre": "Shotgun",
+            "imagen": "https://terraria.wiki.gg/images/Shotgun.png?889d80"
+          },
+          {
+            "nombre": "Onyx Blaster",
+            "imagen": "https://terraria.wiki.gg/images/Onyx_Blaster.png?b5f1e2"
+          },
+          {
+            "nombre": "Uzi",
+            "imagen": "https://terraria.wiki.gg/images/Uzi.png?5c111b"
+          },
+          {
+            "nombre": "Megashark",
+            "imagen": "https://terraria.wiki.gg/images/Megashark.png?536f44"
+          },
+          {
+            "nombre": "Venus Magnum",
+            "imagen": "https://terraria.wiki.gg/images/Venus_Magnum.png?f58e54"
+          },
+          {
+            "nombre": "Tactical Shotgun",
+            "imagen": "https://terraria.wiki.gg/images/Tactical_Shotgun.png?7dbf6e"
+          },
+          {
+            "nombre": "Sniper Rifle",
+            "imagen": "https://terraria.wiki.gg/images/Sniper_Rifle.png?2b7c13"
+          },
+          {
+            "nombre": "Candy Corn Rifle",
+            "imagen": "https://terraria.wiki.gg/images/Candy_Corn_Rifle.png?6f9511"
+          },
+          {
+            "nombre": "Chain Gun",
+            "imagen": "https://terraria.wiki.gg/images/Chain_Gun.png?cc85c6"
+          },
+          {
+            "nombre": "Xenopopper",
+            "imagen": "https://terraria.wiki.gg/images/Xenopopper.png?5f7623"
+          },
+          {
+            "nombre": "Vortex Beater",
+            "imagen": "https://terraria.wiki.gg/images/Vortex_Beater.png?ab03f1"
+          },
+          {
+            "nombre": "S.D.M.G.",
+            "imagen": "https://terraria.wiki.gg/images/S.D.M.G..png?a07de8"
+          }
+        ]
+      }
+    ]
+  },
+  "Launchers": {
+    "modos": [],
+    "armas": [
+      {
+        "nombre": "Grenade Launcher",
+        "imagen": "https://terraria.wiki.gg/images/Grenade_Launcher.png?328129"
+      },
+      {
+        "nombre": "Proximity Mine Launcher",
+        "imagen": "https://terraria.wiki.gg/images/Proximity_Mine_Launcher.png?a5a588"
+      },
+      {
+        "nombre": "Rocket Launcher",
+        "imagen": "https://terraria.wiki.gg/images/Rocket_Launcher.png?51f09c"
+      },
+      {
+        "nombre": "Nail Gun",
+        "imagen": "https://terraria.wiki.gg/images/Nail_Gun.png?c8eb33"
+      },
+      {
+        "nombre": "Stynger",
+        "imagen": "https://terraria.wiki.gg/images/Stynger.png?954caa"
+      },
+      {
+        "nombre": "Jack 'O Lantern Launcher",
+        "imagen": "https://terraria.wiki.gg/images/Jack_%27O_Lantern_Launcher.png?34d0ab"
+      },
+      {
+        "nombre": "Snowman Cannon",
+        "imagen": "https://terraria.wiki.gg/images/Snowman_Cannon.png?9825a3"
+      },
+      {
+        "nombre": "Celebration",
+        "imagen": "https://terraria.wiki.gg/images/Celebration.png?1a5c06"
+      },
+      {
+        "nombre": "Electrosphere Launcher",
+        "imagen": "https://terraria.wiki.gg/images/Electrosphere_Launcher.png?a38455"
+      },
+      {
+        "nombre": "Celebration Mk2",
+        "imagen": "https://terraria.wiki.gg/images/Celebration_Mk2.png?6d1d06"
+      }
+    ]
+  },
+  "Consumables": {
+    "modos": [
+      {
+        "nombre": "Grenades",
+        "armas": [
+          {
+            "nombre": "Grenade",
+            "imagen": "https://terraria.wiki.gg/images/Grenade.png?150ea5"
+          },
+          {
+            "nombre": "Sticky Grenade",
+            "imagen": "https://terraria.wiki.gg/images/Sticky_Grenade.png?221f27"
+          },
+          {
+            "nombre": "Bouncy Grenade",
+            "imagen": "https://terraria.wiki.gg/images/Bouncy_Grenade.png?7309f1"
+          },
+          {
+            "nombre": "Beenade",
+            "imagen": "https://terraria.wiki.gg/images/Beenade.png?85d560"
+          },
+          {
+            "nombre": "Happy Grenade",
+            "imagen": "https://terraria.wiki.gg/images/Happy_Grenade.png?adea87"
+          }
+        ]
+      },
+      {
+        "nombre": "Others",
+        "armas": [
+          {
+            "nombre": "Paper Airplane",
+            "imagen": "https://terraria.wiki.gg/images/Paper_Airplane.png?6b6538"
+          },
+          {
+            "nombre": "White Paper Airplane",
+            "imagen": "https://terraria.wiki.gg/images/White_Paper_Airplane.png?eee186"
+          },
+          {
+            "nombre": "Shuriken",
+            "imagen": "https://terraria.wiki.gg/images/Shuriken.png?b67e3d"
+          },
+          {
+            "nombre": "Throwing Knife",
+            "imagen": "https://terraria.wiki.gg/images/Throwing_Knife.png?d5ae98"
+          },
+          {
+            "nombre": "Poisoned Knife",
+            "imagen": "https://terraria.wiki.gg/images/Poisoned_Knife.png?5a6429"
+          },
+          {
+            "nombre": "Snowball",
+            "imagen": "https://terraria.wiki.gg/images/Snowball.png?f202de"
+          },
+          {
+            "nombre": "Spiky Ball",
+            "imagen": "https://terraria.wiki.gg/images/Spiky_Ball.png?875d21"
+          },
+          {
+            "nombre": "Bone",
+            "imagen": "https://terraria.wiki.gg/images/Bone.png?6eb4f7"
+          },
+          {
+            "nombre": "Rotten Egg",
+            "imagen": "https://terraria.wiki.gg/images/Rotten_Egg.png?10b8bd"
+          },
+          {
+            "nombre": "Star Anise",
+            "imagen": "https://terraria.wiki.gg/images/Star_Anise.png?eb59ea"
+          },
+          {
+            "nombre": "Molotov Cocktail",
+            "imagen": "https://terraria.wiki.gg/images/Molotov_Cocktail.png?40e3a7"
+          },
+          {
+            "nombre": "Frost Daggerfish",
+            "imagen": "https://terraria.wiki.gg/images/Frost_Daggerfish.png?fed06c"
+          },
+          {
+            "nombre": "Javelin",
+            "imagen": "https://terraria.wiki.gg/images/Javelin.png?8f2069"
+          },
+          {
+            "nombre": "Bone Javelin",
+            "imagen": "https://terraria.wiki.gg/images/Bone_Javelin.png?cee4ea"
+          },
+          {
+            "nombre": "Bone Throwing Knife",
+            "imagen": "https://terraria.wiki.gg/images/Bone_Throwing_Knife.png?cdbe6b"
+          }
+        ]
+      }
+    ]
+  },
+  "Wands": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode wands",
+        "armas": [
+          {
+            "nombre": "Wand of Sparking",
+            "imagen": "https://terraria.wiki.gg/images/Wand_of_Sparking.png?8e0b0e"
+          },
+          {
+            "nombre": "Wand of Frosting",
+            "imagen": "https://terraria.wiki.gg/images/Wand_of_Frosting.png?488b70"
+          },
+          {
+            "nombre": "Thunder Zapper",
+            "imagen": "https://terraria.wiki.gg/images/Thunder_Zapper.png?7751e2"
+          },
+          {
+            "nombre": "Amethyst Staff",
+            "imagen": "https://terraria.wiki.gg/images/Amethyst_Staff.png?e65894"
+          },
+          {
+            "nombre": "Topaz Staff",
+            "imagen": "https://terraria.wiki.gg/images/Topaz_Staff.png?5f039a"
+          },
+          {
+            "nombre": "Sapphire Staff",
+            "imagen": "https://terraria.wiki.gg/images/Sapphire_Staff.png?7fa186"
+          },
+          {
+            "nombre": "Emerald Staff",
+            "imagen": "https://terraria.wiki.gg/images/Emerald_Staff.png?f0bb3d"
+          },
+          {
+            "nombre": "Ruby Staff",
+            "imagen": "https://terraria.wiki.gg/images/Ruby_Staff.png?d8b134"
+          },
+          {
+            "nombre": "Diamond Staff",
+            "imagen": "https://terraria.wiki.gg/images/Diamond_Staff.png?27d173"
+          },
+          {
+            "nombre": "Amber Staff",
+            "imagen": "https://terraria.wiki.gg/images/Amber_Staff.png?fb646b"
+          },
+          {
+            "nombre": "Vilethorn",
+            "imagen": "https://terraria.wiki.gg/images/Vilethorn.png?187463"
+          },
+          {
+            "nombre": "Weather Pain",
+            "imagen": "https://terraria.wiki.gg/images/Weather_Pain.png?4c490e"
+          },
+          {
+            "nombre": "Magic Missile",
+            "imagen": "https://terraria.wiki.gg/images/Magic_Missile.png?249740"
+          },
+          {
+            "nombre": "Aqua Scepter",
+            "imagen": "https://terraria.wiki.gg/images/Aqua_Scepter.png?8a3c62"
+          },
+          {
+            "nombre": "Flower of Fire",
+            "imagen": "https://terraria.wiki.gg/images/Flower_of_Fire.png?515566"
+          },
+          {
+            "nombre": "Flamelash",
+            "imagen": "https://terraria.wiki.gg/images/Flamelash.png?fc6def"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode wands",
+        "armas": [
+          {
+            "nombre": "Sky Fracture",
+            "imagen": "https://terraria.wiki.gg/images/Sky_Fracture.png?f7fd97"
+          },
+          {
+            "nombre": "Crystal Serpent",
+            "imagen": "https://terraria.wiki.gg/images/Crystal_Serpent.png?af2fdc"
+          },
+          {
+            "nombre": "Flower of Frost",
+            "imagen": "https://terraria.wiki.gg/images/Flower_of_Frost.png?b13d1f"
+          },
+          {
+            "nombre": "Frost Staff",
+            "imagen": "https://terraria.wiki.gg/images/Frost_Staff.png?c18690"
+          },
+          {
+            "nombre": "Crystal Vile Shard",
+            "imagen": "https://terraria.wiki.gg/images/Crystal_Vile_Shard.png?337245"
+          },
+          {
+            "nombre": "Life Drain",
+            "imagen": "https://terraria.wiki.gg/images/Life_Drain.png?7a8974"
+          },
+          {
+            "nombre": "Meteor Staff",
+            "imagen": "https://terraria.wiki.gg/images/Meteor_Staff.png?5c7cc7"
+          },
+          {
+            "nombre": "Poison Staff",
+            "imagen": "https://terraria.wiki.gg/images/Poison_Staff.png?e6ed6c"
+          },
+          {
+            "nombre": "Rainbow Rod",
+            "imagen": "https://terraria.wiki.gg/images/Rainbow_Rod.png?2729d9"
+          },
+          {
+            "nombre": "Unholy Trident",
+            "imagen": "https://terraria.wiki.gg/images/Unholy_Trident.png?d10b77"
+          },
+          {
+            "nombre": "Tome of Infinite Wisdom",
+            "imagen": "https://terraria.wiki.gg/images/Tome_of_Infinite_Wisdom.png?f11f84"
+          },
+          {
+            "nombre": "Venom Staff",
+            "imagen": "https://terraria.wiki.gg/images/Venom_Staff.png?bcaa0a"
+          },
+          {
+            "nombre": "Nettle Burst",
+            "imagen": "https://terraria.wiki.gg/images/Nettle_Burst.png?a2e6c3"
+          },
+          {
+            "nombre": "Bat Scepter",
+            "imagen": "https://terraria.wiki.gg/images/Bat_Scepter.png?ec7860"
+          },
+          {
+            "nombre": "Blizzard Staff",
+            "imagen": "https://terraria.wiki.gg/images/Blizzard_Staff.png?875d80"
+          },
+          {
+            "nombre": "Inferno Fork",
+            "imagen": "https://terraria.wiki.gg/images/Inferno_Fork.png?978a42"
+          },
+          {
+            "nombre": "Shadowbeam Staff",
+            "imagen": "https://terraria.wiki.gg/images/Shadowbeam_Staff.png?d4b02b"
+          },
+          {
+            "nombre": "Spectre Staff",
+            "imagen": "https://terraria.wiki.gg/images/Spectre_Staff.png?fda429"
+          },
+          {
+            "nombre": "Resonance Scepter",
+            "imagen": "https://terraria.wiki.gg/images/Resonance_Scepter.png?5038d6"
+          },
+          {
+            "nombre": "Razorpine",
+            "imagen": "https://terraria.wiki.gg/images/Razorpine.png?9e6b5e"
+          },
+          {
+            "nombre": "Staff of Earth",
+            "imagen": "https://terraria.wiki.gg/images/Staff_of_Earth.png?14156a"
+          },
+          {
+            "nombre": "Betsy's Wrath",
+            "imagen": "https://terraria.wiki.gg/images/Betsy%27s_Wrath.png?194448"
+          }
+        ]
+      }
+    ]
+  },
+  "Magic guns": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode magic guns",
+        "armas": [
+          {
+            "nombre": "Gray Zapinator",
+            "imagen": "https://terraria.wiki.gg/images/Gray_Zapinator.png?726b11"
+          },
+          {
+            "nombre": "Space Gun",
+            "imagen": "https://terraria.wiki.gg/images/Space_Gun.png?298a4d"
+          },
+          {
+            "nombre": "Bee Gun",
+            "imagen": "https://terraria.wiki.gg/images/Bee_Gun.png?cb3c58"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode magic guns",
+        "armas": [
+          {
+            "nombre": "Laser Rifle",
+            "imagen": "https://terraria.wiki.gg/images/Laser_Rifle.png?9cb6c4"
+          },
+          {
+            "nombre": "Orange Zapinator",
+            "imagen": "https://terraria.wiki.gg/images/Orange_Zapinator.png?7d9da2"
+          },
+          {
+            "nombre": "Wasp Gun",
+            "imagen": "https://terraria.wiki.gg/images/Wasp_Gun.png?8325d2"
+          },
+          {
+            "nombre": "Leaf Blower",
+            "imagen": "https://terraria.wiki.gg/images/Leaf_Blower.png?694746"
+          },
+          {
+            "nombre": "Rainbow Gun",
+            "imagen": "https://terraria.wiki.gg/images/Rainbow_Gun.png?53c145"
+          },
+          {
+            "nombre": "Heat Ray",
+            "imagen": "https://terraria.wiki.gg/images/Heat_Ray.png?9b8560"
+          },
+          {
+            "nombre": "Laser Machinegun",
+            "imagen": "https://terraria.wiki.gg/images/Laser_Machinegun.png?9b0150"
+          },
+          {
+            "nombre": "Charged Blaster Cannon",
+            "imagen": "https://terraria.wiki.gg/images/Charged_Blaster_Cannon.png?36d793"
+          },
+          {
+            "nombre": "Bubble Gun",
+            "imagen": "https://terraria.wiki.gg/images/Bubble_Gun.png?45a069"
+          }
+        ]
+      }
+    ]
+  },
+  "Spell books": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode spell books",
+        "armas": [
+          {
+            "nombre": "Water Bolt",
+            "imagen": "https://terraria.wiki.gg/images/Water_Bolt.png?8f25bf"
+          },
+          {
+            "nombre": "Book of Skulls",
+            "imagen": "https://terraria.wiki.gg/images/Book_of_Skulls.png?ab7052"
+          },
+          {
+            "nombre": "Demon Scythe",
+            "imagen": "https://terraria.wiki.gg/images/Demon_Scythe.png?1d979b"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode spell books",
+        "armas": [
+          {
+            "nombre": "Cursed Flames",
+            "imagen": "https://terraria.wiki.gg/images/Cursed_Flames.png?558ab7"
+          },
+          {
+            "nombre": "Golden Shower",
+            "imagen": "https://terraria.wiki.gg/images/Golden_Shower.png?a59c86"
+          },
+          {
+            "nombre": "Crystal Storm",
+            "imagen": "https://terraria.wiki.gg/images/Crystal_Storm.png?abc018"
+          },
+          {
+            "nombre": "Magnet Sphere",
+            "imagen": "https://terraria.wiki.gg/images/Magnet_Sphere.png?8c1c6b"
+          },
+          {
+            "nombre": "Razorblade Typhoon",
+            "imagen": "https://terraria.wiki.gg/images/Razorblade_Typhoon.png?4397ae"
+          },
+          {
+            "nombre": "Lunar Flare",
+            "imagen": "https://terraria.wiki.gg/images/Lunar_Flare.png?60a0ee"
+          }
+        ]
+      }
+    ]
+  },
+  "Minion-summoning weapons": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode minion-summoning weapons",
+        "armas": [
+          {
+            "nombre": "Finch Staff",
+            "imagen": "https://terraria.wiki.gg/images/Finch_Staff.png?4edca7"
+          },
+          {
+            "nombre": "Slime Staff",
+            "imagen": "https://terraria.wiki.gg/images/Slime_Staff.png?6ce0e2"
+          },
+          {
+            "nombre": "Flinx Staff",
+            "imagen": "https://terraria.wiki.gg/images/Flinx_Staff.png?b1154b"
+          },
+          {
+            "nombre": "Abigail's Flower",
+            "imagen": "https://terraria.wiki.gg/images/Abigail%27s_Flower.png?3b3a15"
+          },
+          {
+            "nombre": "Cattiva",
+            "imagen": "https://terraria.wiki.gg/images/Cattiva.png?12c45c"
+          },
+          {
+            "nombre": "Foxparks",
+            "imagen": "https://terraria.wiki.gg/images/Foxparks.png?4c9c94"
+          },
+          {
+            "nombre": "Mushroom Staff",
+            "imagen": "https://terraria.wiki.gg/images/Mushroom_Staff.png?1d92f0"
+          },
+          {
+            "nombre": "Hornet Staff",
+            "imagen": "https://terraria.wiki.gg/images/Hornet_Staff.png?f4cb03"
+          },
+          {
+            "nombre": "Vampire Frog Staff",
+            "imagen": "https://terraria.wiki.gg/images/Vampire_Frog_Staff.png?b749bc"
+          },
+          {
+            "nombre": "Imp Staff",
+            "imagen": "https://terraria.wiki.gg/images/Imp_Staff.png?bbd684"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode minion-summoning weapons",
+        "armas": [
+          {
+            "nombre": "Blade Staff",
+            "imagen": "https://terraria.wiki.gg/images/Blade_Staff.png?c29f70"
+          },
+          {
+            "nombre": "Spider Staff",
+            "imagen": "https://terraria.wiki.gg/images/Spider_Staff.png?723f61"
+          },
+          {
+            "nombre": "Pirate Staff",
+            "imagen": "https://terraria.wiki.gg/images/Pirate_Staff.png?a73e61"
+          },
+          {
+            "nombre": "Sanguine Staff",
+            "imagen": "https://terraria.wiki.gg/images/Sanguine_Staff.png?e12638"
+          },
+          {
+            "nombre": "Optic Staff",
+            "imagen": "https://terraria.wiki.gg/images/Optic_Staff.png?ea51bd"
+          },
+          {
+            "nombre": "Deadly Sphere Staff",
+            "imagen": "https://terraria.wiki.gg/images/Deadly_Sphere_Staff.png?3cc3fa"
+          },
+          {
+            "nombre": "Pygmy Staff",
+            "imagen": "https://terraria.wiki.gg/images/Pygmy_Staff.png?6de44d"
+          },
+          {
+            "nombre": "Raven Staff",
+            "imagen": "https://terraria.wiki.gg/images/Raven_Staff.png?66fb10"
+          },
+          {
+            "nombre": "Desert Tiger Staff",
+            "imagen": "https://terraria.wiki.gg/images/Desert_Tiger_Staff.png?29c975"
+          },
+          {
+            "nombre": "Tempest Staff",
+            "imagen": "https://terraria.wiki.gg/images/Tempest_Staff.png?b3e671"
+          },
+          {
+            "nombre": "Terraprisma",
+            "imagen": "https://terraria.wiki.gg/images/Terraprisma.png?9ccd0e"
+          },
+          {
+            "nombre": "Xeno Staff",
+            "imagen": "https://terraria.wiki.gg/images/Xeno_Staff.png?374fd8"
+          },
+          {
+            "nombre": "Stardust Cell Staff",
+            "imagen": "https://terraria.wiki.gg/images/Stardust_Cell_Staff.png?f29133"
+          },
+          {
+            "nombre": "Stardust Dragon Staff",
+            "imagen": "https://terraria.wiki.gg/images/Stardust_Dragon_Staff.png?2e5d63"
+          }
+        ]
+      }
+    ]
+  },
+  "Sentry-summoning weapons": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode sentry-summoning weapons",
+        "armas": [
+          {
+            "nombre": "Houndius Shootius",
+            "imagen": "https://terraria.wiki.gg/images/Houndius_Shootius.png?ddbd1b"
+          }
+        ],
+        "subtipos": [
+          {
+            "nombre": "Tavernkeep's sentries",
+            "armas": [
+              {
+                "nombre": "Lightning Aura Rod",
+                "imagen": "https://terraria.wiki.gg/images/Lightning_Aura_Rod.png?f785d6"
+              },
+              {
+                "nombre": "Flameburst Rod",
+                "imagen": "https://terraria.wiki.gg/images/Flameburst_Rod.png?57c385"
+              },
+              {
+                "nombre": "Explosive Trap Rod",
+                "imagen": "https://terraria.wiki.gg/images/Explosive_Trap_Rod.png?f92134"
+              },
+              {
+                "nombre": "Ballista Rod",
+                "imagen": "https://terraria.wiki.gg/images/Ballista_Rod.png?4955c9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode sentry-summoning weapons",
+        "armas": [
+          {
+            "nombre": "Barnacle Staff",
+            "imagen": "https://terraria.wiki.gg/images/Barnacle_Staff.png?91eaf2"
+          },
+          {
+            "nombre": "Queen Spider Staff",
+            "imagen": "https://terraria.wiki.gg/images/Queen_Spider_Staff.png?8c86b2"
+          },
+          {
+            "nombre": "Staff of the Frost Hydra",
+            "imagen": "https://terraria.wiki.gg/images/Staff_of_the_Frost_Hydra.png?c57fda"
+          },
+          {
+            "nombre": "Lunar Portal Staff",
+            "imagen": "https://terraria.wiki.gg/images/Lunar_Portal_Staff.png?9b7ef9"
+          },
+          {
+            "nombre": "Rainbow Crystal Staff",
+            "imagen": "https://terraria.wiki.gg/images/Rainbow_Crystal_Staff.png?33cff4"
+          }
+        ],
+        "subtipos": [
+          {
+            "nombre": "Tavernkeep's sentries",
+            "armas": [
+              {
+                "nombre": "Lightning Aura Cane",
+                "imagen": "https://terraria.wiki.gg/images/Lightning_Aura_Cane.png?306e0e"
+              },
+              {
+                "nombre": "Lightning Aura Staff",
+                "imagen": "https://terraria.wiki.gg/images/Lightning_Aura_Staff.png?a8ec4e"
+              },
+              {
+                "nombre": "Flameburst Cane",
+                "imagen": "https://terraria.wiki.gg/images/Flameburst_Cane.png?f7ad12"
+              },
+              {
+                "nombre": "Flameburst Staff",
+                "imagen": "https://terraria.wiki.gg/images/Flameburst_Staff.png?e60d23"
+              },
+              {
+                "nombre": "Explosive Trap Cane",
+                "imagen": "https://terraria.wiki.gg/images/Explosive_Trap_Cane.png?9ad62b"
+              },
+              {
+                "nombre": "Explosive Trap Staff",
+                "imagen": "https://terraria.wiki.gg/images/Explosive_Trap_Staff.png?2e7908"
+              },
+              {
+                "nombre": "Ballista Cane",
+                "imagen": "https://terraria.wiki.gg/images/Ballista_Cane.png?46cc5b"
+              },
+              {
+                "nombre": "Ballista Staff",
+                "imagen": "https://terraria.wiki.gg/images/Ballista_Staff.png?9920de"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Whips": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode whips",
+        "armas": [
+          {
+            "nombre": "Cobwhip",
+            "imagen": "https://terraria.wiki.gg/images/Cobwhip.png?9c6067"
+          },
+          {
+            "nombre": "Slime Whip",
+            "imagen": "https://terraria.wiki.gg/images/Slime_Whip.png?de2680"
+          },
+          {
+            "nombre": "Leather Whip",
+            "imagen": "https://terraria.wiki.gg/images/Leather_Whip.png?40663e"
+          },
+          {
+            "nombre": "Soulscourge",
+            "imagen": "https://terraria.wiki.gg/images/Soulscourge.png?9706c3"
+          },
+          {
+            "nombre": "Vasculash",
+            "imagen": "https://terraria.wiki.gg/images/Vasculash.png?78cce7"
+          },
+          {
+            "nombre": "Starcrash",
+            "imagen": "https://terraria.wiki.gg/images/Starcrash.png?72fd1c"
+          },
+          {
+            "nombre": "Snapthorn",
+            "imagen": "https://terraria.wiki.gg/images/Snapthorn.png?701cd0"
+          },
+          {
+            "nombre": "Spinal Tap",
+            "imagen": "https://terraria.wiki.gg/images/Spinal_Tap.png?b45b00"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode whips",
+        "armas": [
+          {
+            "nombre": "Firecracker",
+            "imagen": "https://terraria.wiki.gg/images/Firecracker.png?e7e3a1"
+          },
+          {
+            "nombre": "Cool Whip",
+            "imagen": "https://terraria.wiki.gg/images/Cool_Whip.png?f2d6b9"
+          },
+          {
+            "nombre": "Durendal",
+            "imagen": "https://terraria.wiki.gg/images/Durendal.png?5ef70f"
+          },
+          {
+            "nombre": "Vulgar Display of Flower",
+            "imagen": "https://terraria.wiki.gg/images/Vulgar_Display_of_Flower.png?bec25c"
+          },
+          {
+            "nombre": "Dark Harvest",
+            "imagen": "https://terraria.wiki.gg/images/Dark_Harvest.png?157af0"
+          },
+          {
+            "nombre": "Morning Star",
+            "imagen": "https://terraria.wiki.gg/images/Morning_Star.png?5018d5"
+          },
+          {
+            "nombre": "Electric Eel",
+            "imagen": "https://terraria.wiki.gg/images/Electric_Eel.png?f6611d"
+          },
+          {
+            "nombre": "Constellation",
+            "imagen": "https://terraria.wiki.gg/images/Constellation.png?ea8c01"
+          },
+          {
+            "nombre": "Kaleidoscope",
+            "imagen": "https://terraria.wiki.gg/images/Kaleidoscope.png?5beedb"
+          },
+          {
+            "nombre": "Possession",
+            "imagen": "https://terraria.wiki.gg/images/Possession.png?6d3886"
+          }
+        ]
+      }
+    ]
+  },
+  "Placeable weapons": {
+    "modos": [
+      {
+        "nombre": "Pre-Hardmode placeable weapons",
+        "armas": [
+          {
+            "nombre": "Snowball Launcher",
+            "imagen": "https://terraria.wiki.gg/images/Snowball_Launcher.png?f113aa"
+          }
+        ]
+      },
+      {
+        "nombre": "Hardmode placeable weapons",
+        "armas": [
+          {
+            "nombre": "Firework Rockets",
+            "imagen": "https://terraria.wiki.gg/images/Red_Rocket.png?c315f9"
+          },
+          {
+            "nombre": "Cannon",
+            "imagen": "https://terraria.wiki.gg/images/Cannon.png?a1bd10"
+          },
+          {
+            "nombre": "Bunny Cannon",
+            "imagen": "https://terraria.wiki.gg/images/Bunny_Cannon.png?b5f084"
+          },
+          {
+            "nombre": "Land Mine",
+            "imagen": "https://terraria.wiki.gg/images/Land_Mine.png?b0eb58"
+          }
+        ]
+      }
+    ]
+  },
+  "Explosives": {
+    "modos": [],
+    "armas": [
+      {
+        "nombre": "Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Bomb.png?323aad"
+      },
+      {
+        "nombre": "Sticky Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Sticky_Bomb.png?2f5e18"
+      },
+      {
+        "nombre": "Bouncy Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Bouncy_Bomb.png?b4c75e"
+      },
+      {
+        "nombre": "Scarab Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Scarab_Bomb.png?a3b776"
+      },
+      {
+        "nombre": "Dirt Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Dirt_Bomb.png?a75926"
+      },
+      {
+        "nombre": "Sticky Dirt Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Sticky_Dirt_Bomb.png?ca4dfe"
+      },
+      {
+        "nombre": "Dynamite",
+        "imagen": "https://terraria.wiki.gg/images/Dynamite.png?5f1243"
+      },
+      {
+        "nombre": "Sticky Dynamite",
+        "imagen": "https://terraria.wiki.gg/images/Sticky_Dynamite.png?864164"
+      },
+      {
+        "nombre": "Bouncy Dynamite",
+        "imagen": "https://terraria.wiki.gg/images/Bouncy_Dynamite.png?ebe5ba"
+      },
+      {
+        "nombre": "Power Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Power_Bomb.png?60dd64"
+      },
+      {
+        "nombre": "Sticky Power Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Sticky_Power_Bomb.png?b46acf"
+      },
+      {
+        "nombre": "Bomb Fish",
+        "imagen": "https://terraria.wiki.gg/images/Bomb_Fish.png?452d4d"
+      },
+      {
+        "nombre": "Dry Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Dry_Bomb.png?f75d63"
+      },
+      {
+        "nombre": "Honey Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Honey_Bomb.png?6a741b"
+      },
+      {
+        "nombre": "Lava Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Lava_Bomb.png?aa12bd"
+      },
+      {
+        "nombre": "Wet Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Wet_Bomb.png?4a89c6"
+      },
+      {
+        "nombre": "Freeze Bomb",
+        "imagen": "https://terraria.wiki.gg/images/Freeze_Bomb.png?7e83b7"
+      }
+    ]
+  },
+  "Throwables": {
+    "modos": [],
+    "armas": [
+      {
+        "nombre": "Holy Water",
+        "imagen": "https://terraria.wiki.gg/images/Holy_Water.png?1ab5ba"
+      },
+      {
+        "nombre": "Unholy Water",
+        "imagen": "https://terraria.wiki.gg/images/Unholy_Water.png?b1dd20"
+      },
+      {
+        "nombre": "Blood Water",
+        "imagen": "https://terraria.wiki.gg/images/Blood_Water.png?b4f72a"
+      },
+      {
+        "nombre": "Pretty Mirror",
+        "imagen": "https://terraria.wiki.gg/images/Pretty_Mirror.png?5ba1ed"
+      },
+      {
+        "nombre": "Mud Ball",
+        "imagen": "https://terraria.wiki.gg/images/Mud_Ball.png?aa54aa"
+      }
+    ]
+  },
+  "Tool weapons": {
+    "modos": [],
+    "armas": [
+      {
+        "nombre": "Acorn Slingshot",
+        "imagen": "https://terraria.wiki.gg/images/Acorn_Slingshot.png?b38c9c"
+      },
+      {
+        "nombre": "Sickle",
+        "imagen": "https://terraria.wiki.gg/images/Sickle.png?1becaf"
+      },
+      {
+        "nombre": "Gravedigger's Shovel",
+        "imagen": "https://terraria.wiki.gg/images/Gravedigger%27s_Shovel.png?36cda8"
+      },
+      {
+        "nombre": "Flare Gun",
+        "imagen": "https://terraria.wiki.gg/images/Flare_Gun.png?d8dd0d"
+      },
+      {
+        "nombre": "Staff of Regrowth",
+        "imagen": "https://terraria.wiki.gg/images/Staff_of_Regrowth.png?a57c79"
+      }
+    ]
+  },
+  "Unimplemented weapons": {
+    "modos": [],
+    "armas": [
+      {
+        "nombre": "Boring Bow",
+        "imagen": "https://terraria.wiki.gg/images/Boring_Bow.png?3300f1"
+      },
+      {
+        "nombre": "Etherian Javelin",
+        "imagen": "https://terraria.wiki.gg/images/Etherian_Javelin.png?42d4c0"
+      },
+      {
+        "nombre": "First Fractal",
+        "imagen": "https://terraria.wiki.gg/images/First_Fractal.png?8cade7"
+      },
+      {
+        "nombre": "Skull Bow",
+        "imagen": "https://terraria.wiki.gg/images/Skull_Bow.png?b2ac11"
+      }
+    ]
+  },
+  "Removed weapons": {
+    "modos": [],
+    "armas": [
+      {
+        "nombre": "Soul Scythe",
+        "imagen": "https://terraria.wiki.gg/images/Soul_Scythe.png?9b4dac"
+      }
+    ]
+  }
+}
