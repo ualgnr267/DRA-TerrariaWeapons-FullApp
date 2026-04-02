@@ -7,7 +7,7 @@ import { TerrariaWeaponInfo } from './terraria-weapon-info';
   providedIn: 'root',
 })
 export class WeaponsService {
-  private readonly apiUrl = 'http://localhost:8080/api/weapons';
+  private readonly apiUrl = '/api/weapons';
   private readonly requestTimeoutMs = 10000;
 
   private readonly weapons$: Observable<TerrariaWeaponInfo[]> = this.http.get<unknown>(this.apiUrl).pipe(

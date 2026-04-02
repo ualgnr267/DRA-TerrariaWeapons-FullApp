@@ -4,7 +4,7 @@ Aplicacion full-stack para consultar informacion de armas de Terraria.
 
 Incluye:
 - Backend REST con Spring Boot + JPA + PostgreSQL.
-- Frontend con Angular.
+- Frontend con Angular, servido por Nginx en Docker.
 - Orquestacion con Docker Compose.
 - Dataset en JSON dentro de `scripts/terraria-weapons.json`.
 
@@ -29,7 +29,7 @@ docker compose up --build
 ```
 
 Servicios:
-- Frontend: http://localhost:4200
+- Frontend (Nginx): http://localhost:4200
 - Backend API: http://localhost:8080/api
 - Endpoint de armas: http://localhost:8080/api/weapons
 - PostgreSQL: localhost:5432
